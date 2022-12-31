@@ -14170,7 +14170,8 @@ body.desktop .q-table>tbody>tr:not(.q-tr--no-hover):hover>td:not(.q-td--no-hover
 }
 
 .q-tabs__content--align-justify .q-tab {
-   flex: 1 1 auto
+   flex: 1 1 auto;
+   width: 25%;
 }
 
 .q-tabs__offset {
